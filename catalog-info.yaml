@@ -5,10 +5,6 @@ metadata:
   description: A sample catalog for the yelb application
   annotations:
     'backstage.io/techdocs-ref': dir:.
-  links:
-    - url: https://github.com/mreferre/yelb
-      title: Yelb GitHub Landing Page
-      icon: dashboard
 spec:
   targets:
     - ./components/yelb-ui/yelb-ui.yaml
