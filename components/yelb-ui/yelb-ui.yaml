@@ -9,7 +9,7 @@ metadata:
     'backstage.io/kubernetes-label-selector': 'app=yelb-ui,tier=frontend'
     'backstage.io/techdocs-ref': dir:.
   links:
-    - url: https://yelb-ui.example.com
+    - url: http://yelb-ui.example.com:8080
       title: 'Yelb UI Information'
       icon: locallibrary
 spec:
